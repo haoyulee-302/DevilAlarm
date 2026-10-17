@@ -1,0 +1,12 @@
+.venv/
+.venv-alarm/
+__pycache__/
+api_key.txt
+settings.json
+backups/
+build/
+dist/
+release/
+*.zip
+
+task.md
