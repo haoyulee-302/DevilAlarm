@@ -4,6 +4,8 @@
 
 ## EXE 快速開始
 
+[下載 Windows EXE／ZIP](https://github.com/haoyulee-302/DevilAlarm/releases/latest)
+
 1. 解壓縮 `DevilAlarm-Windows-x64.zip`。
 2. 雙擊 `DevilAlarm.exe`，不需要另外安裝 Python。
 3. 選擇攝影機編號，點「測試攝影機」確認取景。
